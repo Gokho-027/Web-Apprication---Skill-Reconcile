@@ -1,0 +1,6 @@
+{
+  "name": "Dual-File AI Skill Inspector",
+  "description": "ระบบตรวจสอบและวิเคราะห์เปรียบเทียบ 2 ไฟล์ด้วย AI ผ่านเกณฑ์และคำสั่ง Skill (.md) อย่างละเอียดและแม่นยำ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
